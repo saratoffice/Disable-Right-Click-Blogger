@@ -4,4 +4,5 @@ Pase the html and Java befre end  of body tag i.e </body>
 from the html onle copy <div class="toast-notification">
         Right click is disabled for this website.
       </div>
-Please see the video before use https://www.youtube.com/watch?v=4wo4csHfabw
+Please see the video before use <a href="https://www.youtube.com/watch?v=oXkdW5QwC5s" download="filename.pdf" target="_blank">View the Video</a>
+
